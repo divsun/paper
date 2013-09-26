@@ -7,6 +7,23 @@
 2	**Take full responsibility.** In a society in which people blame everyone from their parents to the government for their failure to get ahead, motivational superstars refuse to buy into the victim mentality. Their credo is “if it’s to be, it’s up to me.”
 
 
+```html
+<div id="zbeubeu"></div>
+
+<style>
+	#zbeubeu {
+		width: 400px;
+		height: 600px;
+	}
+</style>
+
+<script>
+	var myBoard = new DrawingBoard.Board('zbeubeu');
+</script>
+```
+
+
+
 3	They realize that when you say someone or something outside of yourself is preventing you from succeeding, you’re giving away your power. You’re saying, “ you have more control over my life than I do.”
 
 
