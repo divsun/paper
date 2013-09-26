@@ -1,7 +1,7 @@
 #UNIT 1  The Winner’s Guide to Success
-##Motivational experts reveal what drives them
+###Motivational experts reveal what drives them
 
-###1	How do successful people think? What drives them? To find out, I interviewed some of the people most successful in motivating others: top motivational speakers and bestselling authors of “how-to-succeed” books. Here are seven keys to success that they share. 
+####1	How do successful people think? What drives them? To find out, I interviewed some of the people most successful in motivating others: top motivational speakers and bestselling authors of “how-to-succeed” books. Here are seven keys to success that they share. 
 
 
 ###2	Take full responsibility. In a society in which people blame everyone from their parents to the government for their failure to get ahead, motivational superstars refuse to buy into the victim mentality. Their credo is “if it’s to be, it’s up to me.”
